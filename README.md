@@ -124,7 +124,3 @@ Each PDF will generate a `.json` file in the `/output` directory with its extrac
 * ⚡ Fast and multithreaded OCR for speed
 * 📜 Purely CPU-based – meets all Adobe constraints
 * 🧩 Language-aware – detects + adapts to multilingual content
-
----
-
-Let me know if you’d like this dropped into a file or need a submission-ready ZIP 📦.

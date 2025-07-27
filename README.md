@@ -131,3 +131,8 @@ We implemented a robust PDF outline generation system by combining structural an
 * 📜 Purely CPU-based – meets all Adobe constraints
 * 🧩 Language-aware – detects + adapts to multilingual content
 
+
+
+<div align="left">
+  <img src="https://github.com/akhilthirunalveli/akhilthirunalveli/blob/main/assets/Adobe%20India%20Hackathon%202025.png" alt="App Demo" width="1000"/>
+</div>

@@ -82,7 +82,7 @@ We designed a hybrid, multi-phase pipeline to robustly extract:
 #### Folder Structure
 
 ```
-📦 adobe/
+📦 ./
 ├── Dockerfile
 ├── process_pdfs.py
 ├── requirements.txt
